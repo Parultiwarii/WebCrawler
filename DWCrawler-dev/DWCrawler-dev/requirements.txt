@@ -1,0 +1,8 @@
+beautifulsoup4
+openai
+Pillow
+pytesseract
+requests
+PySocks
+opencv-python
+mysql-connector-python
